@@ -57,7 +57,7 @@ python CVE_Check_Tool.py -p <产品名称> -v <产品版本> [-o <输出文件>]
 
 
 ```Python
- python CVE_Check_Tool.py -p nginx -v 0.6。4  -o cve_info.xlsx
+ python CVE_Check_Tool.py -p nginx -v 0.6.4  -o cve_info.xlsx
 ```
 
 ![image](https://github.com/LIHAQI/CVE_Check_Tool/assets/57976650/56b1250d-a56e-4292-bfad-620edb6bedd1)
