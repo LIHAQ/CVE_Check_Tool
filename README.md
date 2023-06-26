@@ -1,4 +1,4 @@
-# CVE Check Tool
+# CVE_Check_Tool
 
 这是一个用于查询组件CVE漏洞信息的Python脚本。它使用NIST NVD的RESTful API来获取CVE数据，并提供格式化的输出和导出到Excel功能。
 
@@ -57,10 +57,10 @@ python CVE_Check_Tool.py -p <产品名称> -v <产品版本> [-o <输出文件>]
 
 
 ```Python
- python CVE_Check_Tool.py -p nginx -v 0.6.4  -o cve_info.xlsx
+ python CVE_Check_Tool.py -p nginx -v 0.6。4  -o cve_info.xlsx
 ```
 
-![image](https://github.com/LIHAQI/CVE-Check-Tool/assets/57976650/0bbea370-ca19-42cb-abca-af95cfa88016)
+![image](https://github.com/LIHAQI/CVE_Check_Tool/assets/57976650/56b1250d-a56e-4292-bfad-620edb6bedd1)
 
 
 
