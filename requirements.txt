@@ -1,5 +1,5 @@
-argparse
-requests
-prettytable
-pandas
-openpyxl
+argparse==1.4.0
+requests==2.26.0
+prettytable==2.2.1
+pandas==1.3.1
+openpyxl==3.0.9
